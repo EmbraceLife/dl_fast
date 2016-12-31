@@ -1,0 +1,27 @@
+data/
+wekaData/
+mixed_data/
+stockData/
+weka1/
+Data Cleaning/
+*.pdf
+Udacity_BA_data/
+weka-3-8-0/
+weka_courses_notes/
+weka_MOOC_by_examples/
+moa-release-2016.04/
+stable-3-8/
+developer-branch/
+generating data/
+wekaData/
+*.arff
+doc/
+*.css
+*.html
+Weka-Jython-R-Python-scripts/
+ml-Washington/
+R_ml_scripts/
+pics/
+MNIST_data/
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
