@@ -25,3 +25,5 @@ pics/
 MNIST_data/
 .ipynb_checkpoints/
 */.ipynb_checkpoints/
+*.jpg
+*.png
